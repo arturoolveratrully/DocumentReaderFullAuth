@@ -1,5 +1,5 @@
 install:
   - FILE="-Dfile=documentreader-fullauth.aar"
   - mvn install:install-file $FILE -DgroupId=ai.trully.document.fullauth
-    -DartifactId=DocumentReaderFullAuth -Dversion=7.3.11349 -Dpackaging=aar
+    -DartifactId=DocumentReaderFullAuth -Dversion=7.2.10883 -Dpackaging=aar
     -DgeneratePom=true
